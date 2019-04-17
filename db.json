@@ -1,8 +1,12 @@
 {
-  "results": [
+  "categories": [
     {
-      "id": 1,
-      "title": "hello"
+      "results": [
+        {
+          "id": 1,
+          "name": "hello"
+        }
+      ]
     }
   ],
   "profile": {
