@@ -1,14 +1,12 @@
 {
-  "categories": [
-    {
-      "results": [
-        {
-          "id": 1,
-          "name": "hello"
-        }
-      ]
-    }
-  ],
+  "categories": {
+    "results": [
+      {
+        "id": 1,
+        "name": "hello"
+      }
+    ]
+  },
   "profile": {
     "name": "typicode"
   }
