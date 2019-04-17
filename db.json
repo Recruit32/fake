@@ -3,10 +3,48 @@
     "results": [
       {
         "id": 1,
-        "name": "hello"
+        "name": "red"
+      },
+      {
+        "id": 2,
+        "name": "orange"
+      },
+      {
+        "id": 3,
+        "name": "yellow"
+      },
+      {
+        "id": 4,
+        "name": "green"
+      },
+      {
+        "id": 5,
+        "name": "blue"
       }
     ]
   },
+  "subcategories": [
+    {
+      "id": 1,
+      "name": "zebra"
+    },
+    {
+      "id": 2,
+      "name": "lion"
+    },
+    {
+      "id": 3,
+      "name": "elephant"
+    },
+    {
+      "id": 4,
+      "name": "rhino"
+    },
+    {
+      "id": 5,
+      "name": "ostrich"
+    }
+  ]
   "profile": {
     "name": "typicode"
   }
