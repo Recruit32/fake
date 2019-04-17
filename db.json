@@ -1,50 +1,174 @@
 {
   "categories": {
-    "results": [
-      {
-        "id": 1,
-        "name": "red"
-      },
-      {
-        "id": 2,
-        "name": "orange"
-      },
-      {
-        "id": 3,
-        "name": "yellow"
-      },
-      {
-        "id": 4,
-        "name": "green"
-      },
-      {
-        "id": 5,
-        "name": "blue"
-      }
-    ]
-  },
-  "subcategories": [
-    {
-      "id": 1,
-      "name": "zebra"
+    "Demo_Qxc_Zxc": {
+      "results": [
+        {
+          "id": 1,
+          "name": "Healthcare_Occupations"
+        },
+        {
+          "id": 2,
+          "name": "Therapy"
+        },
+        {
+          "id": 3,
+          "name": "Universal_Healthcare"
+        },
+        {
+          "id": 4,
+          "name": "Dentistry"
+        },
+        {
+          "id": 5,
+          "name": "Health_Policy"
+        },
+        {
+          "id": 6,
+          "name": "Pharmacy"
+        },
+        {
+          "id": 7,
+          "name": "Health_Fraud"
+        },
+        {
+          "id": 8,
+          "name": "Medicine"
+        },
+        {
+          "id": 9,
+          "name": "Healthcare_Software"
+        },
+        {
+          "id": 10,
+          "name": "Primary_Care"
+        },
+        {
+          "id": 11,
+          "name": "Healthcare_Management"
+        },
+        {
+          "id": 12,
+          "name": "Healthcare_Robotics"
+        }
+      ]
+    }, 
+    "Healthcare": {
+      "results": [
+        {
+          "id": 1,
+          "name": "Banks"
+        },
+        {
+          "id": 2,
+          "name": "Construction"
+        },
+        {
+          "id": 3,
+          "name": "Gambling"
+        },
+        {
+          "id": 4,
+          "name": "Labor"
+        },
+        {
+          "id": 5,
+          "name": "Oil_and_Gas"
+        },
+        {
+          "id": 6,
+          "name": "Pharmaceuticals"
+        },
+        {
+          "id": 7,
+          "name": "Retail"
+        },
+        {
+          "id": 8,
+          "name": "Sports"
+        },
+        {
+          "id": 9,
+          "name": "Education"
+        },
+        {
+          "id": 10,
+          "name": "Trucking"
+        },
+        {
+          "id": 11,
+          "name": "Airlines"
+        },
+        {
+          "id": 12,
+          "name": "Waste_Management"
+        },
+        {
+          "id": 13,
+          "name": "Auto_Manufacturers"
+        }
+      ]
     },
-    {
-      "id": 2,
-      "name": "lion"
-    },
-    {
-      "id": 3,
-      "name": "elephant"
-    },
-    {
-      "id": 4,
-      "name": "rhino"
-    },
-    {
-      "id": 5,
-      "name": "ostrich"
+    "Marvel_Superheroes": {
+      "results": [
+        {
+          "id": 1,
+          "name": "Healer"
+        },
+        {
+          "id": 2,
+          "name": "Government_Agent"
+        },
+        {
+          "id": 3,
+          "name": "Acrobat"
+        },
+        {
+          "id": 4,
+          "name": "Armored"
+        },
+        {
+          "id": 5,
+          "name": "Tank"
+        },
+        {
+          "id": 6,
+          "name": "Marksman"
+        },
+        {
+          "id": 7,
+          "name": "Teleporter"
+        },
+        {
+          "id": 8,
+          "name": "Possessed"
+        },
+        {
+          "id": 9,
+          "name": "Shapeshifter"
+        },
+        {
+          "id": 10,
+          "name": "Slasher"
+        },
+        {
+          "id": 11,
+          "name": "Mentalist"
+        },
+        {
+          "id": 12,
+          "name": "Gadgeteer"
+        },
+        {
+          "id": 13,
+          "name": "Feral"
+        },
+        {
+          "id": 14,
+          "name": "Energizer"
+        }
+      ]
     }
-  ],
+  },
   "profile": {
     "name": "typicode"
   }
